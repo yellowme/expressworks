@@ -1,0 +1,17 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "jade": "1.11.0",
+    "stylus": "0.54.0"
+  },
+  "engines": {
+    "node": "5.0.0"
+  },
+  "devDependencies": {}
+}
